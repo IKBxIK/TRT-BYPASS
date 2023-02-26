@@ -13,4 +13,4 @@ trt=platform.architecture()[0]
 if trt=="32bit":
     print('Sorry 32 Bit Not Supported...')
 elif trt=="64bit":
-    print('wait for new update')
+    print('\33[0;97mWAIT\33[0;94m For\33[0;96m NEW \33[0;91mUPDATE\33[0;97m')
